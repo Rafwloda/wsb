@@ -7,5 +7,10 @@
 </head>
 <body>
     <div>1</div>
+    <?php
+        echo "test";
+        //wersja php
+        echo PHP_VERSION;
+    ?>
 </body>
 </html>
